@@ -1,0 +1,3 @@
+this is the second file created in mygit directory
+
+trying to push the file to remote repo
